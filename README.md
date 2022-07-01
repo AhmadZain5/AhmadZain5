@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ahmad Zain
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning inferential statistics
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Exploratory Data Analysis
 - 📫 How to reach me ahmadalmalkawi53@gmail.com
 
